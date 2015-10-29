@@ -17,5 +17,3 @@ News" and send email if it does.
 `-from`: From address for the email
 
 `-to`: List of comma-separated addresses to send mail to
-
-`-smtp`: The SMTP server to use
